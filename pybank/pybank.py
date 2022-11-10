@@ -39,11 +39,11 @@ with open(csvpath, "r") as csvfile:
             decrease[0]=row[0]
     avgrev = sum(rev_change_list)/len(rev_change_list)
 
-    print (months)
-    print (revenue)
-    print (avgrev)
-    print(increase)
-    print (decrease)
+    print (f"Total months: {months}")
+    print (f"Total: {revenue}")
+    print (f"Average Change {revchange/avgrev}")
+    print(f"The greatest increase:{increase}")
+    print (f"The greatest decrease: {decrease}")
 
 
   
