@@ -3,7 +3,6 @@ import csv
 import statistics 
 csvpath = os.path.join('/Users/iqraimam/Desktop/pythonchallenge', 'budget_data.csv')
 
-txt_path = "output.txt"
 
 months = 0
 revenue =  0
