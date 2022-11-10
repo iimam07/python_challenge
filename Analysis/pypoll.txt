@@ -1,0 +1,24 @@
+Last login: Thu Nov 10 17:34:58 on ttys001
+(base) iqraimam@Iqras-MacBook-Air ~ % cd Desktop
+(base) iqraimam@Iqras-MacBook-Air Desktop % open pythonchallenge
+(base) iqraimam@Iqras-MacBook-Air Desktop % open pypoll.py
+The file /Users/iqraimam/Desktop/pypoll.py does not exist.
+(base) iqraimam@Iqras-MacBook-Air Desktop % cd pythonchallenge
+(base) iqraimam@Iqras-MacBook-Air pythonchallenge % open pypoll.py
+(base) iqraimam@Iqras-MacBook-Air pythonchallenge % python pypoll.py
+  File "/Users/iqraimam/Desktop/pythonchallenge/pypoll.py", line 43
+    $ python3 pypoll.py > pypoll.txt
+    ^
+SyntaxError: invalid syntax
+(base) iqraimam@Iqras-MacBook-Air pythonchallenge % python pypoll.py
+['Charles Casper Stockham', 'Diana DeGette', 'Raymon Anthony Doane']
+369711
+Charles Casper Stockham 85213 23.04854332167558
+Diana DeGette 272892 73.81224794501652
+Raymon Anthony Doane 11606 3.1392087333079077
+Winner: Diana DeGette
+(base) iqraimam@Iqras-MacBook-Air pythonchallenge % 
+
+
+
+

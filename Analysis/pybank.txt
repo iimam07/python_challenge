@@ -1,0 +1,23 @@
+Last login: Thu Nov 10 17:35:42 on ttys001
+(base) iqraimam@Iqras-MacBook-Air ~ % cd Desktop
+(base) iqraimam@Iqras-MacBook-Air Desktop % open pythonchallenge
+(base) iqraimam@Iqras-MacBook-Air Desktop % python pybank.py
+python: can't open file '/Users/iqraimam/Desktop/pybank.py': [Errno 2] No such file or directory
+(base) iqraimam@Iqras-MacBook-Air Desktop % cd pythonchallenge
+(base) iqraimam@Iqras-MacBook-Air pythonchallenge % python pybank.py
+<_csv.reader object at 0x7f9ef02b4660>
+Total months: 86
+Total: 22564198
+Average Change -50.50866447604035
+The greatest increase:['Aug-16', 1862002.0]
+The greatest decrease: ['Feb-14', -1825558.0]
+(base) iqraimam@Iqras-MacBook-Air pythonchallenge % 
+
+
+
+
+
+
+
+
+
